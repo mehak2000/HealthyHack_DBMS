@@ -1,1 +1,1 @@
-# HealthyHack_DBMS
+Healthy Hack gathers informations from every restaurant on a regular basis to ensure our data is fresh. Our vast community of food lovers share their reviews and photos, so you have all that you need to make an informed choice.
